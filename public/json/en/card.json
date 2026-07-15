@@ -1,0 +1,16 @@
+{
+    "out_of_stock":"Out of stock",
+    "out_stock":"Out of stock",
+    "author":"Author",
+    "add_to_cart":"Add to cart",
+    "added":"Added",
+    "read_more":"Read more",
+    "login":"Login",
+    "InStock":"In stock",
+    "hasproduct":"products in stock.",
+    "price":"price",
+    "soon" : "Soon",
+    "close" : "Close",
+    "bought":"Bought",
+    "comming":"Coming Soon"
+}

@@ -1,0 +1,116 @@
+.mobile-style .ck.ck-editor__main>.ck-editor__editable:not(.ck-focused) {
+  border-color: var(--ck-color-base-border);
+}
+  
+.mobile-style .ck-rounded-corners .ck.ck-editor__main>.ck-editor__editable, .mobile-style .ck.ck-editor__main>.ck-editor__editable.ck-rounded-corners {
+  border-radius: var(--ck-border-radius);
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+  
+.mobile-style .ck-rounded-corners .ck.ck-editor__editable:not(.ck-editor__nested-editable), .mobile-style .ck.ck-editor__editable:not(.ck-editor__nested-editable).ck-rounded-corners {
+  border-radius: var(--ck-border-radius);
+}
+  
+.mobile-style .ck.ck-editor__main>.ck-editor__editable {
+  background: var(--ck-color-base-background);
+  border-radius: 0;
+}
+
+.mobile-style .ck.ck-editor__editable_inline[dir=ltr] {
+  text-align: left;
+}
+  
+.mobile-style .ck.ck-editor__editable:not(.ck-editor__nested-editable) {
+  border-radius: 0;
+}
+  
+.mobile-style .ck.ck-editor__editable_inline {
+  overflow: auto;
+  padding: 0 var(--ck-spacing-standard);
+  border: 1px solid transparent;
+}
+.mobile-style .ck.ck-editor__editable .image {
+  position: relative;
+}
+  
+.mobile-style .ck.ck-editor__editable_inline>:first-child {
+  margin-top: var(--ck-spacing-large);
+}
+  
+.mobile-style .ck .ck-widget_with-resizer {
+  position: relative;
+}
+  
+.mobile-style .ck-content .image-style-align-right {
+  float: right;
+  /* margin-left: var(--ck-image-style-spacing); */
+}
+  
+.mobile-style .ck-content .image-style-align-center, .mobile-style .ck-content .image-style-align-left, .mobile-style .ck-content .image-style-align-right, .mobile-style .ck-content .image-style-side {
+  max-width: 50%;
+}
+  
+.mobile-style .ck-content .image {
+  display: table;
+  clear: both;
+  text-align: center;
+  margin: 1em;
+}
+  
+.mobile-style .ck .ck-widget {
+  outline-width: var(--ck-widget-outline-thickness);
+  outline-style: solid;
+  outline-color: transparent;
+  transition: outline-color var(--ck-widget-handler-animation-duration) var(--ck-widget-handler-animation-curve);
+}
+.mobile-style .ck-content .image.image_resized {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+}
+  
+.mobile-style .ck.ck-editor__editable .image {
+  position: relative;
+}
+  
+.mobile-style .ck.ck-editor__editable_inline>:last-child {
+  margin-bottom: var(--ck-spacing-large);
+}
+.mobile-style .ck.ck-editor__editable .image {
+  position: relative;
+}
+
+.mobile-style .ck .ck-widget_with-resizer {
+  position: relative;
+}
+
+.mobile-style .ck-content .image {
+  display: table;
+  clear: both;
+  text-align: center;
+  margin: 1em auto;
+}
+
+.mobile-style .ck .ck-widget {
+  outline-width: var(--ck-widget-outline-thickness);
+  outline-style: solid;
+  outline-color: transparent;
+  transition: outline-color var(--ck-widget-handler-animation-duration) var(--ck-widget-handler-animation-curve);
+}
+.mobile-style .ck-content .image.image_resized img {
+  width: 100%;
+}
+
+
+.mobile-style .ck-content .image>img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  min-width: 50px;
+}
+.mobile-style .ck-content .image-style-align-left {
+  float: left;
+  margin-right: 1rem;
+}
+  

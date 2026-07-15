@@ -1,0 +1,21 @@
+{
+    "home":"Home",
+    "blog":"Blog",
+    "search":"search",
+    "input_search":"Name Blog / writer...",
+    "filter_by":"Sort search by",
+    "filter_viewed":"Total number of visits",
+    "filter_liked":"Amount of likes",
+    "filter_desc":"New to old",
+    "filter_asc":"Old to new",
+    "product_found":"Product found",
+    "filter":"Filter",
+    "writer_type":"Type of writing",
+    "type_one":"One episode",
+    "eps":"Many episodes",
+    "cate":"Blog Category",
+    "no_blog":"Not found blog",
+    "reset":"Reset",
+    "submit":"Submit"
+    
+}

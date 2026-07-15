@@ -1,0 +1,18 @@
+{
+    "known_issues":"Known issues",
+    "w_problem":"What's the problem with this comment",
+    "issue_type_1":"There is a problem, unreadable",
+    "issue_type_2":"Has inappropriate content",
+    "issue_type_3":"There is a problem of copyright infringement",
+    "issue_type_4":"Other",
+    "details":"Details",
+    "name":"Name",
+    "email":"Email",
+    "tel":"Phone number",
+    "cancel":"Cancel",
+    "sent":"Send",
+    "e_detail":"Enter your detail",
+    "e_name":"Enter your name",
+    "e_email":"Enter your email",
+    "e_phone":"Enter your phone number"
+}

@@ -1,0 +1,20 @@
+{
+    "shipping_address":"Make default shipping address",
+    "billing_address":"Make default billing address",
+    "address_book":"Address book",
+    "shippingaddress":"shipping address",
+    "billingaddress":"billing address",
+    "shipping_and_tax":"Shipping and tax invoice addresses",
+    "as_specified":"As specified",
+    "address":"Address",
+    "edit":"Edit",
+    "postcode":"Postcode",
+    "name_surname":"Name-surname",
+    "phone_number":"Phone number",
+    "home":"Home",
+    "office":"Office",
+    "add_new_address":"Add new address",
+    "cancel":"Cancel",
+    "save":"Save",
+    "tax":"Tax"
+}

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2359" data-name="Rectangle 2359" width="32" height="32" transform="translate(266 171)" fill="#ee5294" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_8399" data-name="Path 8399" d="M429.5,32h16a2.5,2.5,0,0,1,2.5,2.5V36h-5.5a3.5,3.5,0,0,0,0,7H448v1.5a2.5,2.5,0,0,1-2.5,2.5h-16a2.5,2.5,0,0,1-2.5-2.5V33.48l.71-.73A2.5,2.5,0,0,1,429.5,32Z" transform="translate(-427 -32)" fill="#ee5294"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_2357" data-name="Rectangle 2357" width="525" height="825" fill="#ee5294"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_8400" data-name="Path 8400" d="M442.5,40a.5.5,0,1,0-.5-.5A.5.5,0,0,0,442.5,40Zm0-3H448v5h-5.5a2.5,2.5,0,0,1,0-5Zm1.5-6H429.5a3.489,3.489,0,0,0-2.5,1.05v-.93a2.51,2.51,0,0,1,2.17-2.48l13.15-1.63a1.087,1.087,0,0,1,.18-.01,1.5,1.5,0,0,1,1.5,1.5Z" transform="translate(-427 -27)" fill="#ee5294"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_64" data-name="Mask Group 64" transform="translate(-266 -171)" clip-path="url(#clip-path)">
+    <g id="Group_4443" data-name="Group 4443" transform="translate(266 177)">
+      <g id="Group_4439" data-name="Group 4439" transform="translate(0 5)">
+        <g id="Group_4438" data-name="Group 4438" clip-path="url(#clip-path-2)">
+          <g id="Group_4437" data-name="Group 4437" transform="translate(-427 -32)" clip-path="url(#clip-path-3)">
+            <rect id="XMLID_8_" width="31" height="25" transform="translate(422 27)" fill="#ee5294"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_4442" data-name="Group 4442">
+        <g id="Group_4441" data-name="Group 4441" clip-path="url(#clip-path-4)">
+          <g id="Group_4440" data-name="Group 4440" transform="translate(-427 -27)" clip-path="url(#clip-path-3)">
+            <rect id="XMLID_5_" width="31" height="25" transform="translate(422 22)" fill="#ee5294"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

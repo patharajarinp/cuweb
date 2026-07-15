@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2354" data-name="Rectangle 2354" width="40" height="40" transform="translate(493 231)" fill="#ee5294" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_8397" data-name="Path 8397" d="M44.5,203.252v-4.375a3.126,3.126,0,0,0-3.125-3.125h-2.5a3.126,3.126,0,0,0-3.125,3.125v4.375H32.627a3.126,3.126,0,0,1-3.125-3.125v-12.1l-1.463,1.313a.629.629,0,1,1-.837-.937l12.5-11.25a.63.63,0,0,1,.837,0l12.5,11.25a.629.629,0,1,1-.837.938l-1.45-1.312v12.1a3.126,3.126,0,0,1-3.125,3.125Z" transform="translate(-26.993 -176.993)" fill="#ee5294"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_2352" data-name="Rectangle 2352" width="656.25" height="1031.25" fill="#ee5294"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_8398" data-name="Path 8398" d="M41.25,194.875A1.872,1.872,0,0,0,39.375,193h-2.5A1.872,1.872,0,0,0,35,194.875v4.375h6.25Z" transform="translate(-35 -193)" fill="#ee5294"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_62" data-name="Mask Group 62" transform="translate(-493 -231)" clip-path="url(#clip-path)">
+    <g id="Group_4436" data-name="Group 4436" transform="translate(499.251 237.25)">
+      <g id="Group_4432" data-name="Group 4432">
+        <g id="Group_4431" data-name="Group 4431" clip-path="url(#clip-path-2)">
+          <g id="Group_4430" data-name="Group 4430" transform="translate(-33.741 -221.241)" clip-path="url(#clip-path-3)">
+            <rect id="XMLID_6_" width="38.75" height="38.75" transform="translate(27.5 215)" fill="#ee5294"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_4435" data-name="Group 4435" transform="translate(10.009 20.009)">
+        <g id="Group_4434" data-name="Group 4434" clip-path="url(#clip-path-4)">
+          <g id="Group_4433" data-name="Group 4433" transform="translate(-43.75 -241.25)" clip-path="url(#clip-path-3)">
+            <rect id="XMLID_3_" width="18.75" height="18.75" transform="translate(37.5 235)" fill="#ee5294"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

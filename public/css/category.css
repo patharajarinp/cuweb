@@ -1,0 +1,8 @@
+.popover-category{
+    position: absolute;
+    background-color: #ffffff;
+    top:40px;
+    width: 336px;
+    height: 500px;
+    z-index: 1000;
+}

@@ -1,0 +1,13 @@
+.product-main-grid .show-book{
+  background-color: #fff;
+}
+
+.product-main-grid .product-card:hover .show-book{
+  background-color: #F8F9FA;
+}
+
+.page-link.active {
+	color: #fff !important;
+    background-color: #EE5294;
+    border: 1px solid #EE5294;
+}

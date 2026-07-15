@@ -1,0 +1,7 @@
+button.ck.ck-button.ck-fontsize-option .ck-button__label {
+  font-size: 1rem !important;
+  line-height: 1 !important;
+}
+.ck.ck-sticky-panel .ck-sticky-panel__content_sticky{
+  top:6rem ;
+}

@@ -1,0 +1,8 @@
+{
+    "register_premium":"Register Premium membership",
+    "name_prefix":"Name prefix",
+    "mr_mrs":"Mr./Mrs.",
+    "already_a_member":"Already a member",
+    "disconnect_server" : "Fail Server Disconnect!!!",
+    "member_phone" : "This phone number already exists"
+}

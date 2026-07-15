@@ -1,0 +1,14 @@
+{
+    "book": "book",
+    "ebook": "e-book",
+    "type_product" : "Product type",
+    "main_category" : "Classes",
+    "sub_category" : "Division",
+    "category" : "Section",
+    "book_category" : "Book Category",
+    "view_all" : "View All",
+    "recommended_books" : "Recommended books",
+    "ebook_category" : "Ebook Category",
+    "stationery_category" : "Non Book Category",
+    "filter_marketplace" : "Product : Marketplace"
+}

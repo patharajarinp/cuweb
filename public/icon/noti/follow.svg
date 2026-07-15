@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_15457" data-name="Path 15457" d="M918.6,398.963a3.176,3.176,0,0,1-5.186,0Z" fill="#e9c869"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_17152" data-name="Rectangle 17152" width="352.486" height="554.43" transform="translate(790.122 267.16)" fill="#e9c869"/>
+    </clipPath>
+  </defs>
+  <g id="Group_10607" data-name="Group 10607" transform="translate(-885.055 -362.307)">
+    <rect id="Rectangle_17150" data-name="Rectangle 17150" width="40" height="40" transform="translate(885.055 362.307)" fill="none"/>
+    <g id="Group_10600" data-name="Group 10600">
+      <g id="Group_10605" data-name="Group 10605">
+        <g id="Group_10604" data-name="Group 10604" clip-path="url(#clip-path)">
+          <g id="Group_10594" data-name="Group 10594">
+            <g id="Group_10603" data-name="Group 10603">
+              <g id="Group_10602" data-name="Group 10602" clip-path="url(#clip-path-2)">
+                <g id="Group_10593" data-name="Group 10593">
+                  <rect id="Rectangle_17151" data-name="Rectangle 17151" width="11.904" height="8.062" transform="translate(910.055 395.604)" fill="#e9c869"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_10606" data-name="Group 10606">
+      <circle id="Ellipse_432" data-name="Ellipse 432" cx="5.625" cy="5.625" r="5.625" transform="translate(900.055 371.056)" fill="#868687"/>
+      <path id="Path_15458" data-name="Path 15458" d="M913.42,385.79a6.036,6.036,0,0,0-3.46,5.45v2.95H896.92a.608.608,0,0,1-.61-.62v-2.5a9.37,9.37,0,0,1,5.66-8.61,6.832,6.832,0,0,0,7.42,0A9.345,9.345,0,0,1,913.42,385.79Z" fill="#868687"/>
+      <path id="Path_15459" data-name="Path 15459" d="M923.06,396.61a1.684,1.684,0,0,1-1.68,1.68H910.63a1.68,1.68,0,0,1,0-3.36h.33v-3.69a5.025,5.025,0,0,1,2.97-4.58,4.939,4.939,0,0,1,2.07-.46,5.038,5.038,0,0,1,5.04,5.04v3.69h.34A1.684,1.684,0,0,1,923.06,396.61Z" fill="#e9c869"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2434" data-name="Rectangle 2434" width="72" height="72" transform="translate(0.169)" fill="#ee5294" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_8529" data-name="Path 8529" d="M130.375,184.02h4.5a3.37,3.37,0,0,1,3.375,3.375v24.7a3.37,3.37,0,0,1-3.375,3.375h-4.5A3.37,3.37,0,0,1,127,212.1v-24.7A3.37,3.37,0,0,1,130.375,184.02Z" transform="translate(-127 -184.02)" fill="#ee5294"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_2432" data-name="Rectangle 2432" width="1181.25" height="1856.25" fill="#ee5294"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_8530" data-name="Path 8530" d="M132.66,193.346a38.882,38.882,0,0,0,5.243-15.3,1.123,1.123,0,0,1,.99-.967c5.243-.63,8.055,2.182,7.988,7.852,0,.923-.045,1.733-.09,2.925-.157,3.443-.113,4.32.315,4.86.473.585,1.935.7,5.175.09.675-.135,1.35-.27,2.092-.427.45-.09,3.87-.878,4.748-1.058a14.887,14.887,0,0,1,3.78-.382c2.61.2,3.96,1.845,4.185,5.13.428,5.827-.99,18.63-2.3,22.86-1.193,3.915-3.848,5.13-10.035,5.243-3.645.067-8.888.09-15.773.045a13.441,13.441,0,0,1-5.918-1.462,5.431,5.431,0,0,0,.337-1.913V196.136A5.452,5.452,0,0,0,132.66,193.346Z" transform="translate(-132.66 -176.991)" fill="#ee5294"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_105" data-name="Mask Group 105" transform="translate(-0.169)" clip-path="url(#clip-path)">
+    <g id="Group_4612" data-name="Group 4612" transform="translate(11.248 11.248)">
+      <g id="Group_4608" data-name="Group 4608" transform="translate(0 15.814)">
+        <g id="Group_4607" data-name="Group 4607" clip-path="url(#clip-path-2)">
+          <g id="Group_4606" data-name="Group 4606" transform="translate(-285.75 -414.045)" clip-path="url(#clip-path-3)">
+            <rect id="XMLID_6_" width="33.75" height="53.955" transform="translate(274.5 402.795)" fill="#ee5294"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_4611" data-name="Group 4611" transform="translate(12.735)">
+        <g id="Group_4610" data-name="Group 4610" clip-path="url(#clip-path-4)">
+          <g id="Group_4609" data-name="Group 4609" transform="translate(-298.485 -398.231)" clip-path="url(#clip-path-3)">
+            <rect id="XMLID_3_" width="57.015" height="69.75" transform="translate(287.235 387)" fill="#ee5294"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

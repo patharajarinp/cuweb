@@ -1,0 +1,20 @@
+{
+    "label_email_or_phone": "Phone Number or Email",
+    "placeholder_email_or_phone": "Please enter your Phone Number or Email",
+    "label_password": "Password",
+    "placeholder_password": "Please enter your password",
+    "btn_login": "Login",
+    "or_login_with": "Or,login with",
+    "new_member": "New member?",
+    "here": "here",
+    "register": "Register",
+    "forgot_password": "Forgot Password?",
+    "please_specify": "Please specify the account that needs to reset the password",
+    "the_email_or_password_is_incorrect": "The email or password is incorrect!",
+    "character_passwordfill": "Please enter your password",
+    "welcome": "Welcome to the Chula Book Center. Please login.",
+    "not_account": "Don't have an account?",
+    "or_login": "Or login with",
+    "not_true": "This email is incorrect or doesn't exist in the system."
+
+}

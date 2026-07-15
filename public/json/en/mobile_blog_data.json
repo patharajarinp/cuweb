@@ -1,0 +1,21 @@
+{
+    "home":"Home",
+    "blog":"Blog",
+    "ep":"EP ",
+    "episode":"Episode ",
+    "like":"Like",
+    "view":"View",
+    "share" : "Share",
+    "write_comment":"Write comment",
+    "send_comment":"Send comment",
+    "comment":"Comment",
+    "comments":"Comments",
+    "submit":"Save",
+    "cancel":"Cancel",
+    "reply":"Reply",
+    "reply_s":"Reply",
+    "report_problem":"Report problem",
+    "reply_comment":"Reply Comment",
+    "more_comments":"More Comments",
+    "data_related":"Related Blog"
+}

@@ -1,0 +1,14 @@
+{
+    "book": "หนังสือ",
+    "ebook": "อีบุ๊ค",
+    "type_product" : "ประเภทสินค้า",
+    "main_category" : "หมวดใหญ่",
+    "sub_category" : "หมวดย่อย",
+    "category" : "หมู่ย่อย",
+    "book_category" : "หมวดหนังสือ",
+    "view_all" : "ดูทั้งหมด",
+    "recommended_books" : "หมวดหนังสือแนะนำ",
+    "ebook_category" : "หมวดอี-บุ๊ค",
+    "stationery_category" : "หมวดไลฟ์สไตล์",
+    "filter_marketplace" : "สินค้า : มาร์เก็ตเพลส"
+}

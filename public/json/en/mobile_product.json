@@ -1,0 +1,8 @@
+{
+    "book": "book",
+    "ebook": "e-book",
+    "type_product" : "Product type",
+    "main_category" : "Classes",
+    "sub_category" : "Division",
+    "category" : "Section"
+}

@@ -1,0 +1,15 @@
+{
+    "out_of_stock":"สินค้าไม่เพียงพอ",
+    "my_wishlist":"รายการที่ชอบ",
+    "author":"ผู้แต่ง",
+    "no_stock":"ไม่มีสินค้า",
+    "stock":"มีสินค้า",
+    "in_stock":"ในสต็อก",
+    "price":"ราคา",
+    "add_to_cart":"หยิบใส่รถเข็น",
+    "read_more":"อ่านเพิ่มเติม",
+    "do_you_confirm_to_delete":"คุณยืนยันที่จะลบข้อมูลนี้หรือไม่?",
+    "there_are_no_favorites_yet":"คุณยังไม่มีรายการที่ชอบ",
+    "continue_shopping":"ช้อปปิ้งต่อ",
+    "title_follow":"นักเขียนที่ติดตาม"
+}

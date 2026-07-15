@@ -1,0 +1,8 @@
+<svg id="Group_6099" data-name="Group 6099" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Group_2783" data-name="Group 2783">
+    <circle id="Ellipse_353" data-name="Ellipse 353" cx="8" cy="8" r="8" fill="#999899"/>
+  </g>
+  <g id="Group_2784" data-name="Group 2784" transform="translate(0.08 8) rotate(-45)">
+    <path id="Union_54" data-name="Union 54" d="M4.8,10.4v-4H.8a.8.8,0,0,1,0-1.6h4V.8A.8.8,0,1,1,6.4.8v4h4a.8.8,0,0,1,0,1.6h-4v4a.8.8,0,1,1-1.6,0Z" transform="translate(0 0)" fill="#fff"/>
+  </g>
+</svg>

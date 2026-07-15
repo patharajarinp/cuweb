@@ -1,0 +1,17 @@
+{
+    "edit_profile":"แก้ไขข้อมูลส่วนตัว",
+    "manage_my_account":"จัดการบัญชีของฉัน",
+    "my_profile":"ข้อมูลส่วนตัว",
+    "address_book":"สมุดที่อยู่",
+    "my_orders":"รายการสั่งซื้อของฉัน",
+    "order_success":"รายการที่เคยซื้อ",
+    "my_change":"การเปลี่ยนสินค้า",
+    "my_returns":"การคืนสินค้า",
+    "my_cancellations":"การยกเลิกสินค้า",
+    "notifications":"การแจ้งเตือน",
+    "my_reviews":"รีวิวของฉัน",
+    "premium_member":"เช็คแต้มสะสม",
+    "my_wishlist":"รายการที่ชอบ",
+    "choose":"เลือก",
+    "follow":"นักเขียนที่ติดตาม"
+}

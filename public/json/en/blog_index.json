@@ -1,0 +1,17 @@
+{
+    "cate":"Blog Category",
+    "input_search":"Name Blog...",
+    "search":"search",
+    "blog_popula":"Popular Blogs",
+    "blog_new_hot":"Blog Hot",
+    "blog_new":" New Blogs",
+    "writer_pop":"Popular Writer",
+    "view_all" : "View All",
+    "unwriter_1":"Your writer's account is suspended ",
+    "unwriter_2":"Please contact the book center staff.",
+    "home":"Home",
+    "blog":"Blog",
+    "next":"Next Page",
+    "back":"Back Page",
+    "related_products":"Related Products"
+}

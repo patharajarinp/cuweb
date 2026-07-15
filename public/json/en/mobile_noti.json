@@ -1,0 +1,63 @@
+{
+    "premium_success_title" : "Premium membership confirmation successful",
+    "premium_success_message" : "Enjoy your special privileges and services",
+
+    "order_cod_title" : "Order success",
+    "order_cod_message" : "Cash on delivery <br/>Order #{{order_id}} ",
+
+    "payment_success_title" : "Payment success",
+    "payment_success_message" : "Order #{{order_id}}",
+
+    "order_transport_title" : "Your product is in the process of being shipped",
+    "order_transport_message" : "Your product is in the process of being shipped",
+
+    "order_success_title" : "The product has been delivered to you",
+    "order_success_message" : "Product inspection and Review of the purchased product",
+
+    "slip_fail_title" : "แจ้งผลการโอนเงินไม่สำเร็จ",
+    "slip_fail_message" : "แจ้งผลการโอนเงินไม่สำเร็จ กรุณาแจ้งใหม่อีกครั้ง",
+
+    "member_expire_warning_title" : "The Premium Account is about to expire",
+    "member_expire_warning_message" : "Your premium membership will expire on {{date}} Your renewal will be extended from the end date of the current subscription.",
+
+    "head_title" : "Notification",
+
+    "user_recieve_promo_title" : "You received a promotion code",
+    "user_recieve_promo_message" : "Promotion code : <strong>{{promotion_code}}<strong> <br/> value {{promotion_discount}} baht ,Deadline {{end_date}} ",
+
+    "seller_accept_return_title" : "seller_accept_return_title en",
+    "seller_accept_return_message" : "seller_accept_return_message en",
+
+    "seller_refun_success":"The seller accepts returns",
+    "send_product":"Please send the product back to (Seller Address) .If you do not deliver the product within 5 days, the system will consider canceling the return request.",
+
+    "seller_success_product":"The seller has received the product.",
+    "seller_money":"The seller is processing a refund.",
+
+    "seller_reject_return":"The shop refuses to request a return.",
+    "contact_cu":"If you have any further questions, please contact the staff of the Chulalongkorn Book Center.",
+    
+    "refund_success":"Refund successfully",
+    "check_contact_cu":"Please check it is correct. If you have any further questions, please contact the staff of the Chulalongkorn Book Center.",
+
+    "seller_accept_change":"The seller accepts exchange of products",
+
+    "seller_reject_change":"The seller refuses to request a replacement",
+
+    "seller_proceed_change":"The seller is changing the product",
+
+    "seller_send_product_new":"The seller has sent a new item. If you do not deliver the product within 5 days, the system will consider canceling the return request.",
+
+    "blog_comment_title":"คุณ {{user_name}} แสดงความคิดเห็นในตอน {{group_name}}",
+    "blog_comment_m":"ตรวจสอบความคิดเห็น",
+    "blog_comment_reply":"คุณ {{user_name}} ตอบกลับความคิดเห็นของคุณ ในตอน {{group_name}}",
+    "blog_follow_t":"ติดตามนักเขียน",
+    "blog_follow_m":"ตรวจสอบผู้ติดตาม",
+    "blog_group_t":"บทความใหม่",
+    "blog_group_m":"อ่านบทความ",
+    "blog_data_t":"{{group_name}} ตอนใหม่",
+    "blog_group_not":"บทความ {{group_title}} ของคุณถูกระงับเนื่องจาก {{reason}}",
+    "blog_group_m_not":"กรุณาติดต่อเจ้าหน้าที่ศูนย์หนังสือจุฬาฯ",
+    "blog_group_approve":"บทความ {{group_title}} ของคุณได้รับการอนุมัติแล้ว",
+    "blog_group_m_approve":"ตรวจสอบบทความ"
+}

@@ -1,0 +1,7 @@
+{
+    "phone_number_cannot":"This phone number cannot be found. Please fill out the information again. Or contact staff",
+    "member_exists":"This member information already exists. Please fill out the information again. Or contact staff",
+    "correct_phone_number":"Please enter the correct phone number",
+    "confirm_membership":"Confirm membership as a premium",
+    "not_registered_premium":"Not yet registered for a premium membership."
+}

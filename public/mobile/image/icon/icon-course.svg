@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.14" y1="0.934" x2="0.052" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f286b2"/>
+      <stop offset="1" stop-color="#f2b7cd"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2665" data-name="Rectangle 2665" width="36" height="36" transform="translate(361 179.44)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_8736" data-name="Path 8736" d="M286.443,144.626l7.84-5.063a1.317,1.317,0,0,0,.377-.377,1.257,1.257,0,0,0-.377-1.737l-7.84-5.063a1.3,1.3,0,0,0-.686-.206,1.254,1.254,0,0,0-1.257,1.257v10.126a1.237,1.237,0,0,0,.206.686A1.257,1.257,0,0,0,286.443,144.626ZM288.5,150.5a12,12,0,1,1,12-12A12,12,0,0,1,288.5,150.5Z" transform="translate(-276.5 -126.5)" fill="#2153a3"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_2663" data-name="Rectangle 2663" width="600" height="942.857" fill="#2153a3"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_8737" data-name="Path 8737" d="M292.146,137.437l-.033.033-7.44,4.8a.107.107,0,0,1-.152-.033c-.011-.022-.022-.033-.022-.054v-9.609a.1.1,0,0,1,.108-.108.083.083,0,0,1,.054.022l7.44,4.8A.1.1,0,0,1,292.146,137.437Z" transform="translate(-284.5 -132.47)" fill="#2153a3"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_2664" data-name="Rectangle 2664" width="569.391" height="894.758" fill="#2153a3"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9084" data-name="Group 9084" transform="translate(-124 -424)">
+    <circle id="Ellipse_370" data-name="Ellipse 370" cx="22" cy="22" r="22" transform="translate(124 424)" fill="#fce1ec"/>
+    <g id="Mask_Group_181" data-name="Mask Group 181" transform="translate(-233 248.56)" clip-path="url(#clip-path)">
+      <g id="maps-and-flags" transform="translate(367 185.44)">
+        <g id="Group_5612" data-name="Group 5612" transform="translate(0 0)">
+          <g id="Group_5608" data-name="Group 5608">
+            <g id="Group_5607" data-name="Group 5607" clip-path="url(#clip-path-2)">
+              <g id="Group_5606" data-name="Group 5606" transform="translate(-316 -144.572)" clip-path="url(#clip-path-3)">
+                <rect id="XMLID_7_" width="35.519" height="35.519" transform="translate(310.24 138.812)" fill="#2153a3"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_5611" data-name="Group 5611" transform="translate(9.379 7.087)">
+            <g id="Group_5610" data-name="Group 5610" clip-path="url(#clip-path-4)">
+              <g id="Group_5609" data-name="Group 5609" transform="translate(-308.556 -143.671)" clip-path="url(#clip-path-5)">
+                <rect id="XMLID_3_" width="18.503" height="20.672" transform="translate(303.133 138.248)" fill="#2153a3"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

