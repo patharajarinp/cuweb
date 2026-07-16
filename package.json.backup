@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && node app.js",
+    "dev": "node app.js",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && next build",
     "start": "set NODE_ENV=production & node app.js"
   },
