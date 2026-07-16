@@ -92,6 +92,7 @@
   },
   "devDependencies": {
     "@babel/plugin-transform-arrow-functions": "^7.10.4",
-    "babel-polyfill": "^6.26.0"
+    "babel-polyfill": "^6.26.0",
+    "cypress": "^15.18.1"
   }
 }
